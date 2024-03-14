@@ -1,0 +1,16 @@
+Nom du client: Bern
+Prénom du client: Stephane
+Adresse: 1 Places d’armes, Versailles
+Email: stephdu78@gmail.com
+Montant du prêt demandé: 2000000
+Valeur Propriété: 200000
+Revenu mensuel: 4000
+Dépenses mensuelles: 2000 
+Durée du prêt: 20 ans
+Description de la propriete:Joli château en plein versailles avec couloir plein de miroirs
+Région de location: 9
+Évaluation du promoteur: 10
+Respecte la loi: OUI
+Objectif: LOCATION
+Age: 69
+Emprunt en cour: 2
